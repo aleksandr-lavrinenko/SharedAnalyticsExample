@@ -1,0 +1,7 @@
+build/
+.gradle/
+.DS_Store
+.idea/
+local.properties
+eventGenerator/env
+eventGenerator/__pyCache__
